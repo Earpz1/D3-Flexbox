@@ -50,6 +50,9 @@ body {
   .content {
     flex-direction: column;
   }
+  .article {
+    flex-basis: 55vh;
+  }
 }
 
 @media (min-width: 576px) and (max-width: 700px) {
